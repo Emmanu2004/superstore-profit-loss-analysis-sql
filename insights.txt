@@ -1,0 +1,27 @@
+Key Insights
+Insight 1
+
+High sales do not always result in high profit.
+
+Insight 2
+
+Heavy discounts significantly reduce profit margins.
+
+Insight 3
+
+Certain categories consistently generated losses.
+
+Insight 4
+
+Regional profitability varied considerably.
+
+Insight 5
+
+Data quality directly impacts business decisions.
+
+Business Recommendations
+Review discount strategies on low-margin products
+Focus on profitability instead of sales volume alone
+Monitor loss-making categories regularly
+Improve data quality validation processes
+Use automated reporting for faster decision-making
